@@ -95,7 +95,7 @@
   --shadow-lg: 2px 2px 4px 0px hsl(196 83% 10% / 0.15), 2px 4px 6px -1px hsl(196 83% 10% / 0.15);
   --shadow-xl: 2px 2px 4px 0px hsl(196 83% 10% / 0.15), 2px 8px 10px -1px hsl(196 83% 10% / 0.15);
   --shadow-2xl: 2px 2px 4px 0px hsl(196 83% 10% / 0.38);
-}
+}}
 
 @layer base {
   * {
